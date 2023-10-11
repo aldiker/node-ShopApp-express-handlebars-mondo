@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Angular",
+        "price": "5000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
+        "id": "0032f69d-385c-4f88-9075-8345cd091b86"
+    },
+    {
+        "title": "Vue",
+        "price": "20000",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+        "id": "1527bc8c-df38-492f-b023-17a16e774c34"
+    },
+    {
+        "title": "Some course",
+        "price": "123456",
+        "img": "https://planbphoto.com/wp-content/uploads/Ukraina-ponad-use.jpg",
+        "id": "d00a4d2a-a880-4ca8-b836-d361fe9140d5"
+    }
+]
